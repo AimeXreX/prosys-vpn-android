@@ -1,0 +1,11 @@
+<h2>ProSySVPN</h2>
+<p>A fast, private and approachable VPN experience built around one-tap smart connection.</p>
+<ul>
+<li>Automatically checks available routes and chooses the best connection</li>
+<li>Includes managed daily free traffic</li>
+<li>Supports personal connection links, subscriptions and QR codes</li>
+<li>Shows connection quality, usage and renewal time clearly</li>
+<li>Includes per-app routing and advanced controls for experienced users</li>
+</ul>
+<p>No account, email address or phone number is required for daily free access. See the in-app privacy policy for complete details.</p>
+<p>Official support: <a href="https://t.me/Prosyssellbot">ProSySVPN Telegram bot</a></p>

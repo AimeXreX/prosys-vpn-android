@@ -1,0 +1,5 @@
+# Keep the real signing.properties private and backed up with the keystore.
+storeFile=../signing/prosys-release.jks
+storePassword=REPLACE_WITH_A_STRONG_PASSWORD
+keyAlias=prosys-release
+keyPassword=REPLACE_WITH_A_STRONG_PASSWORD

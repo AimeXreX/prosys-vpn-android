@@ -1,0 +1,1 @@
+Updated the native Xray core and Android client infrastructure to the latest stable upstream line. Improved connection reliability, modern protocol compatibility, ProSySVPN branding, neon interface, accessibility, diagnostics, and light/dark theme support.

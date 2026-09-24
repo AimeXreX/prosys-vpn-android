@@ -1,0 +1,10 @@
+Meet the redesigned ProSyS VPN experience.
+
+- New simple, branded home screen
+- One-tap Quick Connect with smart server selection
+- Automatic fallback when a connection fails
+- Clear connection quality and Persian troubleshooting
+- Improved free-traffic display and less intrusive plan suggestions
+- ProSyS Quick Settings tile and shortcuts
+- Encrypted device token storage
+- Better stability, error handling, and accessibility
